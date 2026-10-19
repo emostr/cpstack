@@ -1,0 +1,85 @@
+/* CPStack — русская локализация */
+
+/* Panel */
+"Search" = "Поиск";
+"Show pinned only (Tab)" = "Только закреплённые (Tab)";
+"Paste" = "Вставить";
+"Copy" = "Копировать";
+"Paste as Plain Text" = "Вставить как простой текст";
+"Copy Without Pasting" = "Скопировать без вставки";
+"Pin" = "Закрепить";
+"Unpin" = "Открепить";
+"Open Link" = "Открыть ссылку";
+"Show in Finder" = "Показать в Finder";
+"Delete" = "Удалить";
+"Image" = "Изображение";
+"History is empty" = "История пуста";
+"Copy something and it will appear here.\nPress %@ to open CPStack anywhere." = "Скопируйте что-нибудь — оно появится здесь.\nНажмите %@, чтобы открыть CPStack где угодно.";
+"No pinned items" = "Нет закреплённых";
+"Pinned items stay in the history until you unpin them. Select an item and press ⌘P." = "Закреплённые записи хранятся, пока вы их не открепите. Выберите запись и нажмите ⌘P.";
+"Nothing found" = "Ничего не найдено";
+"Plain text" = "Как текст";
+"Settings (⌘,)" = "Настройки (⌘,)";
+
+/* Menu bar */
+"Show History" = "Показать историю";
+"Pause Recording" = "Приостановить запись";
+"Clear History…" = "Очистить историю…";
+"Settings…" = "Настройки…";
+"About CPStack" = "О программе CPStack";
+"Quit CPStack" = "Завершить CPStack";
+"Hide CPStack" = "Скрыть CPStack";
+"Edit" = "Правка";
+"Undo" = "Отменить";
+"Redo" = "Повторить";
+"Cut" = "Вырезать";
+"Select All" = "Выбрать все";
+"Window" = "Окно";
+"Close" = "Закрыть";
+"Minimize" = "Свернуть";
+"Clear clipboard history?" = "Очистить историю буфера обмена?";
+"Pinned items will be kept." = "Закреплённые записи останутся.";
+"Clear" = "Очистить";
+"Cancel" = "Отменить";
+
+/* Settings */
+"CPStack Settings" = "Настройки CPStack";
+"General" = "Основные";
+"Launch at login" = "Открывать при входе в систему";
+"Open history" = "Открыть историю";
+"This shortcut is used by another app" = "Это сочетание занято другой программой";
+"Press a shortcut. Esc cancels, ⌫ resets." = "Нажмите сочетание. Esc — отмена, ⌫ — по умолчанию.";
+"Click to record a new shortcut" = "Нажмите, чтобы задать новое сочетание";
+"Type shortcut…" = "Нажмите клавиши…";
+"Reset to %@" = "Сбросить на %@";
+"Show panel" = "Показывать панель";
+"At text cursor" = "У текстового курсора";
+"At mouse pointer" = "У указателя мыши";
+"In screen center" = "В центре экрана";
+"Language" = "Язык";
+"System" = "Как в системе";
+"Restart CPStack to apply" = "Применится после перезапуска CPStack";
+"Restart Now" = "Перезапустить";
+"Pasting" = "Вставка";
+"Paste automatically" = "Вставлять автоматически";
+"Choosing an item pastes it into the active app. When off, the item is only copied." = "Выбранная запись сразу вставляется в активную программу. Если выключено — только копируется.";
+"Accessibility" = "Универсальный доступ";
+"Grant Access…" = "Разрешить…";
+"Access granted. CPStack can paste and find the text cursor." = "Доступ есть: CPStack может вставлять и находить текстовый курсор.";
+"Needed to paste into other apps and to show the panel at the text cursor." = "Нужен, чтобы вставлять в другие программы и показывать панель у курсора.";
+"History" = "История";
+"Items to keep" = "Хранить записей";
+"Save images" = "Сохранять изображения";
+"Ignore passwords" = "Не сохранять пароли";
+"Skip data that password managers mark as confidential." = "Пропускать данные, которые менеджеры паролей помечают как секретные.";
+"Pause recording" = "Приостановить запись";
+"Pinned items are never removed automatically." = "Закреплённые записи не удаляются автоматически.";
+"Clipboard history in your menu bar." = "История буфера обмена в строке меню.";
+"Open or close the history" = "Открыть или закрыть историю";
+"Choose an item" = "Выбрать запись";
+"Paste the selected / numbered item" = "Вставить выбранную / по номеру";
+"Paste as plain text" = "Вставить без форматирования";
+"Pin or unpin" = "Закрепить или открепить";
+"Delete from history" = "Удалить из истории";
+"Show pinned only" = "Только закреплённые";
+"Clear search / close" = "Очистить поиск / закрыть";
