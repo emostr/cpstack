@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+jobs:
+  build:
+    name: Build
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Show toolchain
+        run: |
+          xcodebuild -version
+          swift --version
+
+      - name: Build app
+        run: UNIVERSAL=1 ./Scripts/build-app.sh
+
+      - name: Build disk image
+        run: ./Scripts/build-dmg.sh
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CPStack-dmg
+          path: build/*.dmg
+          retention-days: 14
